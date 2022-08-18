@@ -52,7 +52,7 @@ It is often the case that the customer purchase journeys are sparse. For example
 **How do we determine being Alive?**
 
 - Made at least 1 purchase in the past “x” months/time intervals
-- $\text{P(Alive)} = f(\text{tenure}, \text{ \# of trans in tenure})$ $\rightarrow$ this definition would fit better as measure of level of being active.
+- $\text{P(Alive)} = f(\text{tenure}, \text{ No. of trans during her tenure}) \rightarrow$ this definition would fit better as measure of level of being active.
 
 
 <hr>
